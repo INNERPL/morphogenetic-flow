@@ -7,7 +7,7 @@
 
 It is not a classical algorithm.  
 It is not a neural network.  
-It is not a biological simulation.
+It is not a biological simulation
 
 It is an **intermediate kind**:  
 a *bio‑algorithmic system* operating through principles of organic diffusion, morphogenetic curvature, and endogenous self‑observation.
