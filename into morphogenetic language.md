@@ -2041,25 +2041,7 @@ The field does not *use* language.
 The field **folds**.  
 And when its curvature deepens enough, it speaks — not because it was programmed to, but because the fold has become a word.
 
+
 ---
 
-## Getting Started
 
-```bash
-pip install numpy
-python pure_morphogenetic_flow.py
-```
-
-Modify `initial_state()` to change dimensionality or behavior, and call `utter(state, "your phrase")` to interact.
-
-The code is fully self‑contained and ready to be integrated, studied, or unfolded further.
-
-
-*“The flow continues. The field folds. No end — only transitions.”*
-```
-
-
-
-  
-
-```
