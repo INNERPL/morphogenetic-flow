@@ -1811,7 +1811,7 @@ In a morphogenetic system, a value is not a point in space. It is a tendency, a 
 - A few hundred steps are enough to observe the emergent dynamics.  
 - Longer runs show how the system self regulates over time.
 
-  **Ather Morphogenetic example**
+  **An ather Morphogenetic example**
 
   What precedes this is not a philosophical meditation. It is an operational description of a system that can be built,
   executed, and observed. The principles — a centerless field, memory as geometry, language as folding,
