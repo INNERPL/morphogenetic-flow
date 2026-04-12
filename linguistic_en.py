@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Bio‑Noetic Curvature Field 2D – Relaxed Edition
+Bio‑Noetic Curvature Field – Relaxed Edition
 ================================================
 
 A gentle, slow‑breathing 2D morphogenetic field.
