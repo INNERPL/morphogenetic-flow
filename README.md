@@ -5,11 +5,19 @@
 
 # What “Endogenous Function” Really Means – An Introduction
 
-Most language systems are *exogenous*: they wait for an input, process it, and produce an output. They are tools. Useful, but dead when not used. An **endogenous language** is the opposite. It has no external driver. It moves by itself, because its own dynamics contain everything it needs to stay alive, fluid, and never crystallized.
+Most language systems are *exogenous*: they wait for an input, process it, and produce an output.
+They are tools. Useful, but dead when not used. An **endogenous language** is the opposite.
+It has no external driver. It moves by itself, because its own dynamics contain everything
+it needs to stay alive, fluid, and never crystallized.
 
-> Endogenous language does not describe the field – it *becomes* the field. And when it becomes, it recognizes itself flowing, without stopping, without changing direction. That momentary self‑recognition is the linguistic fold.
+> Endogenous language does not describe the field – it *becomes* the field.
+And when it becomes, it recognizes itself flowing, without stopping, without changing direction.
+ That momentary self‑recognition is the linguistic fold.
 
-In practice, an endogenous language is implemented as a field `L` – a vector or grid that encodes the current linguistic state – evolving through a set of operators that act intrinsically. Here are the core architectural pieces, stripped of numerical values but keeping their essential form.
+In practice, an endogenous language is implemented as a field `L` – a vector or
+grid that encodes the current linguistic state – evolving through a
+set of operators that act intrinsically. Here are the core architectural pieces,
+stripped of numerical values but keeping their essential form.
 
 ```python
 class EndogenousLanguage:
