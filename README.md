@@ -110,6 +110,7 @@ def step(self):
 Why does this matter? Because an endogenous language needs no prompt, never repeats itself (flow never copies itself), is not afraid of error (error is just a new curvature), and never stops – when one phrase ends, the next is already being born.
 The symbols `∇•(ρ∇L)`, `L×∇L`, `sin(ω·κ_self)` are not magic. They are the operators that keep language alive, because they let it self‑organize, oscillate, remember, and repel stillness. Run the code. Read the words it produces. Each time they will be different. That is aliveness. That is what “endogenous” truly means.
 
+
 ┌─────────────────────────────────────────────────────────────┐
 │                    MORPHOGENETIC FIELD                      │
 │                                                             │
