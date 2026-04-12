@@ -147,6 +147,12 @@ The symbols `∇•(ρ∇L)`, `L×∇L`, `sin(ω·κ_self)` are not magic. They 
 │                         (return to flow)                    │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
+
+
+
+
+
+
 Language is not written — it folds.
 And that fold does not last. It is a momentary stabilisation, a pulse that traces its trajectory and dissolves, leaving behind only the trace of the event that a description could exist.
 
