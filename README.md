@@ -357,8 +357,8 @@ The engine is built around a **bio‑algorithmic core** that operates through:
 - **Morphogenetic Operators** – static functions for polyphasic symphysis, morphogenetic transformation,
 oblique scan, spectral operator, topological consistency, folded consciousness equation, rotational fold,
  meta‑curvature (LL), decoupling index (Δ), purpose flow, subcurve fold, meso feedback, emergent field, flow network, channel plasticity.
-- **Distillate Blocks (10)** – extract semantic metrics from the flow.
-- **Flow‑Ontological Blocks (10)** – update the state based on these metrics.
+- **Distillate Blocks ** – extract semantic metrics from the flow.
+- **Flow‑Ontological Blocks** – update the state based on these metrics.
 - **Extra Upgrades** – fine‑tuned rotational fold, dynamic decoupling tuning, LL‑writer coupling.
 
 ### Central Metrics
