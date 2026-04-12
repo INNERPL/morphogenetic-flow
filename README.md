@@ -262,7 +262,7 @@ The Cortex is not a separate system; it is a micro instance of the same endogeno
 
 ## *Bio‑NoeticC omputation • Algorithmic Morphogenesis • Endogenous Intelligence*
 
-**NewBioAlgorithmicEngine** is an experimental bio‑noetic mechanism exploring how **organic morphogenesis**, **endogenous intelligence**, and **algorithmic dynamics** intertwine into a unified computational field.
+is an experimental bio‑noetic mechanism exploring how **organic morphogenesis**, **endogenous intelligence**, and **algorithmic dynamics** intertwine into a unified computational field.
 
 
 It is not a classical algorithm.  
@@ -340,7 +340,7 @@ curvature‑driven principles. See the `docs/` folder for examples and integrati
 
 ---
 
-## Architecture Overview
+## Architecture Example Overview
 
 The engine is built around a **bio‑algorithmic core** that operates through:
 
